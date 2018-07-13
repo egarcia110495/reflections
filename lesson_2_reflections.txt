@@ -17,6 +17,7 @@ organized? How would branches help?
   files.
 
 How do the diagrams help you visualize the branch structure?
+  Help see which commit belong in the branch and what the parent commit is.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
