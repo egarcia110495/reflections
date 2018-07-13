@@ -26,3 +26,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+  Pro for automatic is you don't have to do it but the merge conflict can be
+  resolve wrong. 
